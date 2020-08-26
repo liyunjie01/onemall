@@ -2,10 +2,10 @@ spring:
   # datasource
   datasource:
     type: com.alibaba.druid.pool.DruidDataSource
-    url: jdbc:mysql://s1.iocoder.cn:3306/mall_promotion?useSSL=false&useUnicode=true&characterEncoding=UTF-8
+    url: jdbc:mysql://192.168.43.145:3306/mall_promotion?useSSL=false&useUnicode=true&characterEncoding=UTF-8
     driver-class-name: com.mysql.jdbc.Driver
     username: root
-    password: 3WLiVUBEwTbvAfsh
+    password: Jie62167023@
 
   # Spring Cloud 配置项
   cloud:
