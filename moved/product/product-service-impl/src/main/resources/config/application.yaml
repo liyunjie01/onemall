@@ -23,7 +23,7 @@ spring:
       rocketmq:
         # RocketMQ Binder 配置项
         binder:
-          name-server: s1.iocoder.cn:9876 # RocketMQ Namesrv 地址
+          name-server: 192.168.43.145:9876 # RocketMQ Namesrv 地址
         # RocketMQ 默认 Binding 配置项
         default:
           # RocketMQ 生产者

@@ -85,7 +85,7 @@ dubbo:
 
 ```YAML
 rocketmq:
-  name-server: 127.0.0.1:9876 # 请修改成你本地的 RocketMQ url
+  name-server: 192.168.43.145:9876 # 请修改成你本地的 RocketMQ url
   producer:
     group: product-producer-group
 ```
